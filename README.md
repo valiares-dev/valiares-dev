@@ -41,5 +41,5 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 
 # Stats
 <p align="center">
-  <img src="https://github-readme-extended-stats.vercel.app/api/top-langs/?username=jahazielllagas&layout=compact&bg_color=000000&text_color=FFFFFF"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=valiares-dev&hide_title=true&show_icons=true&include_all_commits=true&theme=dark"/>
 </p>
